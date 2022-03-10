@@ -1,4 +1,4 @@
-#Search in Depth
+Search in Depth
 This is one of the basic algorithms on graphs.
 
 Depth search results in finding lexicographically the first path in the graph.
